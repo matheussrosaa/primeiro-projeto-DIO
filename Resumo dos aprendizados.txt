@@ -1,0 +1,3 @@
+Neste desafio, foram entendidas como funcionam o Git e o Github, além de ser criado este primeiro desafio de projeto.
+
+Com as aulas assistidas, pude entender a importância das ferramentas no dia a dia de um desenvolvedor. Aprendi a utilizar os principais comando do Git/Github.
